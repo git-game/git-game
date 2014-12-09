@@ -1,12 +1,11 @@
 git-game
 ========
-Welcome!! It looks like you made it to my Tag!!!
-Generally you want to refrain from making tags
-the same name as branches, unless you have a
-good reason. The tag is more like the stable
-release. While the branch is more like the
-in progress feature, which will be added soon.
 
-Well, let's get started with your next task!!
-Head over to the keyboard branch to get started!!
+Welcome, now its time to update this branch,
+updating is really useful when you fork a
+repository and your forked repo starts to
+get behind on commits. The repository to
+update from is: https://github.com/hgarc014/git-game-h.git
+
+Don't cheat!!
 
