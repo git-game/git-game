@@ -1,0 +1,19 @@
+# welcome to the ignore file!!
+# in this file you have the ability to
+# ignore files that you don't want git to follow
+#
+# however, if you want you can still have git
+# follow these files by manually adding them
+# (git won't show them when you do git status)
+
+*.rem
+a.out
+
+# This file is hidden by default, but did you know
+# you have some branches that aren't shown to you?
+#
+# For your next clue...
+# Which abstract datat type tends to implement the
+# data structures: sets, maps, graphs?
+
+
