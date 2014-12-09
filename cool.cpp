@@ -8,6 +8,8 @@ int main()
    string input;
    cout << mesg << endl;
    cin >> input;
+   cout << "Loops are fun!" << endl;
+   while(1);
    string reply = "Well, " + input + ", we hope you are having fun with our git-game!";
    cout << reply << endl; 
 }
