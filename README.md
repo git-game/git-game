@@ -2,9 +2,10 @@ git-game
 ========
 
 Welcome to the "tree" branch. Looks like good ol' 
-Linus modified the nextclue_input which when ran
-with the executable outputclue it should give the
-next hint.
+Linus modified the "nextclue_input.cpp" file. Normally,
+when ran with the executable "outputclue", the
+"nextclue_input.cpp" file would give us the next hint.
 
-I get the feeling that he's testing us...
+Maybe, you should try running the executable with the
+"nextclue_input.cpp" file and see what happens...
 
