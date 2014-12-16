@@ -7,7 +7,7 @@ This is a terminal game designed to test
 your knowledge of git commands.
 
 NOTE: Any executables in this game were
-compiled in linux. Thus, are unlikely to
+compiled in linux. Therefore, they are unlikely to
 work on other platforms.
 
 NOTE: All branches and tags are lowercase, unless
@@ -28,7 +28,8 @@ by running:
 You can start by traversing previous commits
 to find your first clue. Check the logs and
 traverse to the commit whose message is the
-answer to this question: When a programmer is
-born, what is the first thing he/she learns
-to say?
+answer to this question: 
+
+When a programmer is born, 
+what is the first thing he/she learns to say?
 
