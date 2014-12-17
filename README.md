@@ -9,3 +9,5 @@ when ran with the executable "outputclue", the
 Maybe, you should try running the executable with the
 "nextclue_input.cpp" file and see what happens...
 
+You can run the executable by ./outputclue FILE
+
