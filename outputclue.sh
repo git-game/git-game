@@ -196,7 +196,7 @@
 # 
 # =====================================================================
 
-if [ -z $1 ]; then echo "well, someone didn't want to run the executable";exit;fi
+if [ -z $1 ]; then echo "well, someone didn't want to run the script with a file...";exit;fi
 file=$1
 mesg="Linus has been here...\nI love messing with these amateur programmers!!\nIf you want some real fun, then you should try resolving a conflict between this branch (tree) and code4life.\nI introduced a little bug that you should fix in the conflict. >:)\nAfter you merge these 2 files you should run the shell script again!!\n\nGood Luck!!!"
 
