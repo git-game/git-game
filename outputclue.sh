@@ -198,7 +198,7 @@
 
 if [ -z $1 ]; then echo "well, someone didn't want to run the executable";exit;fi
 file=$1
-mesg="Linus has been here...\n I love messing with these amateur programmers!!\nIf you want some real fun, then you should try resolving a conflict between this branch and code4life\nAfter you merge these 2 files you should run the executable\n\nGood Luck!!!"
+mesg="Linus has been here...\nI love messing with these amateur programmers!!\nIf you want some real fun, then you should try resolving a conflict between this branch (tree) and code4life.\nI introduced a little bug that you should fix in the conflict. >:)\nAfter you merge these 2 files you should run the shell script again!!\n\nGood Luck!!!"
 
 if [ "$file" = "nextclue_input.cpp" ];then while read p; do for w in $p;do if [ $w = "while(1);" ];then echo -e $mesg; exit; fi; done;done < $file ;echo -e "Well, congratulations!! You fixed my conflict!!\nIf you would like to continue, then you should checkout to the mouse branch!!\n" ;else echo "Looks like you passed in the wrong file";fi
 

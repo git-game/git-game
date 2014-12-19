@@ -1,13 +1,11 @@
 git-game
 ========
 
-Welcome to the "tree" branch. Looks like good ol' 
-Linus modified the "nextclue_input.cpp" file. Normally,
-when ran with the executable "outputclue", the
-"nextclue_input.cpp" file would give us the next hint.
+Welcome to the "tree" branch. 
+Looks like good ol' Linus modified the "nextclue_input.cpp" file. 
+Normally, when ran with the shell script "outputclue.sh", the "nextclue_input.cpp" file would give us the next hint.
 
-Maybe, you should try running the executable with the
-"nextclue_input.cpp" file and see what happens...
+Maybe, you should try running the shell script with the "nextclue_input.cpp" file and see what happens...
 
-You can run the executable by ./outputclue FILE
+You can run the executable by ./outputclue.sh FILE
 
