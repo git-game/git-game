@@ -7,5 +7,5 @@ Normally, when ran with the shell script "outputclue.sh", the "nextclue_input.cp
 
 Maybe, you should try running the shell script with the "nextclue_input.cpp" file and see what happens...
 
-You can run the script by ./outputclue.sh FILE
+You can run the script by running the command "./outputclue.sh FILE"
 
