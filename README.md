@@ -8,6 +8,6 @@ While the branch is more like the in progress feature, which will be added soon.
 
 You're almost done!! Excited?? Hope you are! You have one more thing to do!
 
-Now its time to update the master branch, updating is really useful when you fork a repository and your forked repo starts to get behind on commits. The repository to update from is: https://github.com/hgarc014/git-game-remote.git
+Now its time to update the master branch, updating is really useful when you fork a repository and your forked repo starts to get behind on commits. The repository to update from is: https://github.com/drami025/git-game.git
 
 Don't cheat!!
