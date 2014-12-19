@@ -1,4 +1,4 @@
-git-game-h
+Git Game Finish Line
 ==========
 
 If you did not fork this repository from the terminal, then we are dissapointed in you!!
