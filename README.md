@@ -1,19 +1,28 @@
-# Welcome to the git-game!! 
+git-game-h
+==========
 
-This is a terminal game designed to test your knowledge of git commands.
-Each level in the game is a task to perform on this repo.
-Once you perform that task, you will be given your next task.
-There are a total of ten levels, each one harder than the next!
+If you did not fork this repository from the terminal, then we are dissapointed in you!!
 
-### Let's get this journey started!! 
-Clone this repository by running:
+However, if you did, then great Job!!
+You completed our Git Game!
 
-```
-$ git clone https://github.com/hgarc014/git-game.git
-```
+So what have you had practice with?
 
-**You should always check the README.md file for your next clue!**
+Well you:
 
-Your first task is to checkout the commit whose commit message is the answer to this question: 
+- viewed previous commits using "git log"
+- traversed to previous commits
+- checked out to different branches
+- ran "git blame" to see who made changes to a file
+- ran the diff command to see differences between branches
+- saw what .gitignore included and how it works
+- resolved merged conflicts
+- saw issues with naming tags and branches the same name
+- removed tags
+- updated a local repository from a remote repository
+ 
+Version control systems like git are extremely important tools to learn and use, 
+Especially when collaborating on projects with other developers. 
+It is our hope that you continue to practice your git skills so that you can one day become the ultimate git master!
 
-> When a programmer is born, what is the first thing he/she learns to say?
+Thanks for playing!
