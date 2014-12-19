@@ -1,23 +1,13 @@
 # welcome to the ignore file!!
-# In this file you have the ability to
-# ignore files that you don't want git to follow.
-#
-# However, if you want you can still have git
-# follow these files by manually adding them
-# (git won't show them when you do git status).
 
-*.rem
-a.out
-
-# This file is hidden by default, but did you know
-# you have some branches that aren't shown to you,
+# This file is hidden by default, 
+# but did you know you have some branches that aren't shown to you,
 # when you check the list of branches?
 #
 # For your next clue...
-# Which abstract data structure tends to implement
-# sets and maps?? Answer is the same answer to this
-# riddle:
-
+# Which abstract data type tends to implement sets and maps?? 
+# The answer is the same answer to this riddle:
+#
 #   I am both mother and father.
 #   I am seldom still
 #   yet I never wander.
@@ -27,4 +17,6 @@ a.out
 #
 # Afterwards... well, you
 # know, checkout to the answer. 
-#
+
+*.rem
+a.out
