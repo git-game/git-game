@@ -1,13 +1,19 @@
-git-game
-========
+# Welcome to the git-game!! 
 
-Hello World!
+This is a terminal game designed to test your knowledge of git commands.
+Each level in the game is a task to perform on this repo.
+Once you perform that task, you will be given your next task.
+There are a total of ten levels, each one harder than the next!
 
-It looks like you have some knowledge about traversing commits!
-Well, let's get this party started!
+### Let's get this journey started!! 
+Clone this repository by running:
 
-We want to get to a branch whose name is the answer to this riddle: 
-I am a creature that is smaller than man, but many times more in number. 
-In code, my appearance can be subtle and no matter where I am found, I am unwanted. 
+```
+$ git clone https://github.com/hgarc014/git-game.git
+```
 
-What am I?
+**You should always check the README.md file for your next clue!**
+
+Your first task is to checkout the commit whose commit message is the answer to this question: 
+
+> When a programmer is born, what is the first thing he/she learns to say?
