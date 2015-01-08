@@ -13,13 +13,13 @@ if [ "$file" = "nextclue_input.cpp" ];then
   if [ ${merges} ]; then 
     while read p; do 
       for w in $p;do 
-        if [ `echo $w | md5sum | awk '{print $1}'` = $bug ];then 
+        if [ `echo $w | openssl md5 | awk '{print $1}'` = $bug ];then 
           echo -e $mesg; 
           exit; 
         fi; 
       done;
     done < $file ;
-    echo -e "Well, congratulations!! You fixed my conflict!!\nIf you would like to continue, then you should checkout to the $(echo bW91c2UK | base64 -d) branch!!\n" ;
+    echo -e "Well, congratulations!! You fixed my conflict!!\nIf you would like to continue, then you should checkout to the $(echo bW91c2UK | openssl base64 -d) branch!!\n" ;
    else 
      echo -e $mesg; 
      exit;
