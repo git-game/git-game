@@ -26,3 +26,5 @@ Especially when collaborating on projects with other developers.
 It is our hope that you continue to practice your git skills so that you can one day become the ultimate git master!
 
 Thanks for playing!
+
+email hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
