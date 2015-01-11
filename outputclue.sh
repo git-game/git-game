@@ -10,7 +10,7 @@ mesg="Linus has been here...\nI love messing with these amateur programmers!!\nI
 merges=$(git log --format=%h --merges | head -1)
 csum="md5sum"
 b64="base64 -d"
-if [[ "$OSTYPE" = "darwin" ]];then
+if [[ "$OSTYPE" =~ ^darwin* ]];then
     csum="md5"
     b64="base64 -D"
 fi
