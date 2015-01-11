@@ -27,4 +27,4 @@ It is our hope that you continue to practice your git skills so that you can one
 
 Thanks for playing!
 
-email hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
+email gitgame.hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
