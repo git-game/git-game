@@ -7,6 +7,6 @@ Normally, when ran with the shell script "outputclue.sh", the "nextclue_input.cp
 
 Maybe, you should try running the shell script with the "nextclue_input.cpp" file and see what happens...
 
-You can run the script by running the command "./outputclue.sh FILE"
-If you are on Windows, then you will need to use Cygwin.
+You can run the script by running the command "./outputclue.sh FILE" .
+If you are on Windows, it's okey to use `git-bash` that is installed with [msysgit](https://msysgit.github.io/).
 
