@@ -1,12 +1,12 @@
 Git Game Finish Line
 ==========
 
-If you did not fork this repository from the terminal, then we are dissapointed in you!!
+If you did not fork this repository from the terminal, then we are disappointed in you!!
+=======
 
 However, if you did, then great Job!!
 You completed our Git Game!
 
-So what have you had practice with?
 
 Well you:
 
@@ -18,7 +18,6 @@ Well you:
 - saw what .gitignore included and how it works
 - resolved merged conflicts
 - saw issues with naming tags and branches the same name
-- removed tags
 - updated a local repository from a remote repository
  
 Version control systems like git are extremely important tools to learn and use, 
@@ -28,3 +27,4 @@ It is our hope that you continue to practice your git skills so that you can one
 Thanks for playing!
 
 email gitgame.hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
+please note you will not get a response from this email!
