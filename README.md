@@ -11,6 +11,15 @@ Clone this repository by running:
 ```
 $ git clone https://github.com/hgarc014/git-game.git
 ```
+**Don't know a lot about git??**
+
+Then you should check these files for assistance:
+
+https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
+
+https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
+
+Otherwise, you are free to continue...
 
 **You should always check the README.md file for your next clue!**
 
