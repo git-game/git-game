@@ -28,3 +28,5 @@ Thanks for playing!
 
 email gitgame.hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
 please note you will not get a response from this email!
+
+**Please allow 1 week for the badge to be delivered, Thank You!!**
