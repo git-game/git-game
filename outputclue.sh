@@ -6,7 +6,7 @@ fi
 
 file=$1
 bug=7c85d987a917c2a555d1391426978f05
-mesg="Linus has been here...\nI love messing with these amateur programmers!!\nIf you want some real fun, then you should try resolving a conflict between this branch (tree) and code4life.\nI introduced a little bug that you should fix in the conflict. >:)\nAfter you merge these 2 files you should run the shell script again!!\n\nGood Luck!!!"
+mesg="Level 7: \n Linus has been here...\nI love messing with these amateur programmers!!\nIf you want some real fun, then you should try resolving a conflict between this branch (tree) and code4life.\nI introduced a little bug that you should fix in the conflict. >:)\nAfter you merge these 2 files you should run the shell script again!!\n\nGood Luck!!!"
 merges=$(git log --format=%h --merges | head -1)
 csum="md5sum"
 if [ $(echo "$OSTYPE" | grep darwin) ];then
