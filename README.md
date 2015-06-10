@@ -14,4 +14,4 @@ Now its time to update the master branch, updating is really useful when you for
 
 Don't cheat!!
 
-Hint: https://help.github.com/articles/configuring-a-remote-for-a-fork/
+Here is a [link](https://help.github.com/articles/configuring-a-remote-for-a-fork/) that explains how to fork a remote repository.
