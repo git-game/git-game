@@ -13,4 +13,5 @@ We think he had something to do with the development of git.
 And from what we hear he also made a branch under his name.
 Checkout to that branch after you find out who the culprit is. 
 
-hint: http://git-scm.com/docs/git-blame
+If you are still confused, this link might [help](http://git-scm.com/docs/git-blame)
+
