@@ -23,6 +23,8 @@ Otherwise, you are free to continue...
 
 **You should always check the README.md file for your next clue!**
 
+``Level 1``
+
 Your first task is to checkout the commit whose commit message is the answer to this question: 
 
 > When a programmer is born, what is the first thing he/she learns to say?
