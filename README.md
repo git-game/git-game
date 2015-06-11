@@ -1,35 +1,34 @@
-# Welcome to the git-game!! 
+Git Game Finish Line
+==========
 
-This is a terminal game designed to test your knowledge of git commands.
-Each level in the game is a task to perform on this repo.
-Once you perform that task, you will be given your next task.
-  There are a total of ten levels, each one harder than last!
+If you did not fork this repository from the terminal, then we are disappointed in you!!
+=======
 
-### Let's get this journey started!! 
-Clone this repository by running:
+However, if you did, then great Job!!
+You completed our Git Game!
 
-```
-$ git clone https://github.com/hgarc014/git-game.git
-```
-**Don't know a lot about git??**
 
-Then you should check these files for assistance:
+Well you:
 
-https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
+- viewed previous commits using "git log"
+- traversed to previous commits
+- checked out to different branches
+- ran "git blame" to see who made changes to a file
+- ran the diff command to see differences between branches
+- saw what .gitignore included and how it works
+- resolved merged conflicts
+- saw issues with naming tags and branches the same name
+- updated a local repository from a remote repository
+ 
+ Version control systems like git are extremely important tools to learn and use, 
+ Especially when collaborating on projects with other developers. 
+ It is our hope that you continue to practice your git skills so that you can one day become the ultimate git master!
 
-https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
+ Thanks for playing!
 
-Otherwise, you are free to continue...
+ email gitgame.hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
+ please note you will not get a response from this email!
 
-**You can win a badge for completing this game!**
-
-learn more about badges here: https://openbadgefactory.com/faq
-
-**You should always check the README.md file for your next clue!**
-
-``Level 1``
-
-Your first task is to checkout the commit whose commit message is the answer to this question: 
-
-> When a programmer is born, what is the first thing he/she learns to say?
+ **Please allow up to 2 weeks for the badge to be delivered!!**
+ **I try to send badges as soon as possible, Thank You!!**
 
