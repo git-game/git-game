@@ -17,7 +17,7 @@ if [ "$file" = "nextclue_input.cpp" ];then
   if [ ${merges} ]; then 
     while read p; do 
       for w in $p;do 
-        if [ `echo $w | $csum | awk '{print $1}'` = $bug ];then 
+        if [ `echo $w | tr -d '\r' | $csum | awk '{print $1}'` = $bug ];then 
           echo -e $mesg; 
           exit; 
         fi; 
