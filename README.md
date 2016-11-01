@@ -23,7 +23,7 @@ Otherwise, you are free to continue...
 
 **You can win a badge for completing this game!**
 
-learn more about badges here: https://openbadgefactory.com/faq
+Learn more about badges here: [openbadgefactory.com](https://openbadgefactory.com/?open=modal-faq)
 
 **You should always check the README.md file for your next clue!**
 
