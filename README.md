@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/git-game/git-game)](https://repl.it/github/git-game/git-game)
+
 # Welcome to the git-game!! 
 
 This is a terminal game designed to test your knowledge of git commands.
