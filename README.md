@@ -9,7 +9,7 @@ Once you perform that task, you will be given your next task.
 Clone this repository by running:
 
 ```
-$ git clone https://github.com/hgarc014/git-game.git
+$ git clone https://github.com/KAIST-CS350/git-game.git
 ```
 **Don't know a lot about git??**
 
