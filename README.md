@@ -1,35 +1,49 @@
-# Welcome to the git-game!! 
+# git-game
 
-This is a terminal game designed to test your knowledge of git commands.
-Each level in the game is a task to perform on this repo.
-Once you perform that task, you will be given your next task.
-  There are a total of ten levels, each one harder than last!
+`Level 10`
 
-### Let's get this journey started!! 
-Clone this repository by running:
+Welcome!! It looks like you made it to my Branch!!!
+Generally you want to refrain from making tags the same name as branches, unless you have a good reason.
+The tag is more like the stable release.
+While the branch is more like the in progress feature, which will be added soon.
 
-```
-$ git clone https://github.com/hgarc014/git-game.git
-```
-**Don't know a lot about git??**
+You're almost done!! Excited?? Hope you are! You have one more thing to do!
 
-Then you should check these files for assistance:
+Now its time to update the master branch, updating is really useful when you fork a repository and your forked repo starts to get behind on commits. The repository to update from is: https://github.com/drami025/git-game.git
 
-https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
+Don't cheat!!
 
-https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
+# Here is a [link](https://help.github.com/articles/configuring-a-remote-for-a-fork/) that explains how to fork a remote repository.
 
-Otherwise, you are free to continue...
+# Git Game Finish Line
 
-**You can win a badge for completing this game!**
+# If you did not update the main git-game repository, then we are disappointed in you!!
 
-learn more about badges here: https://openbadgefactory.com/faq
+However, if you did, then great Job!!
+You completed our Git Game!
 
-**You should always check the README.md file for your next clue!**
+Well you:
 
-``Level 1``
+- viewed previous commits using "git log"
+- traversed to previous commits
+- checked out to different branches
+- ran "git blame" to see who made changes to a file
+- ran the diff command to see differences between branches
+- saw what .gitignore included and how it works
+- resolved merged conflicts
+- saw issues with naming tags and branches the same name
+- updated a local repository from a remote repository
 
-Your first task is to checkout the commit whose commit message is the answer to this question: 
+Version control systems like git are extremely important tools to learn and use,
+Especially when collaborating on projects with other developers.
+It is our hope that you continue to practice your git skills so that you can one day become the ultimate git master!
 
-> When a programmer is born, what is the first thing he/she learns to say?
+Thanks for playing!
 
+email gitgame.hgarc014@gmail.com with subject: “git-game completion” to get a badge of completion!!
+please note you will not get a response from this email!
+
+**Please allow up to 2 weeks for the badge to be delivered!!**
+**I try to send badges as soon as possible, Thank You!!**
+
+> > > > > > > de791254c644d4cfaef43a36541f7d70a9aa7cb4
